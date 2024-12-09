@@ -2,10 +2,10 @@ let mysql = require('mysql2');
 
 // Konfigurasi koneksi database
 let connection = mysql.createConnection({
-  host: '127.0.0.1',
-  user: 'disaster',
-  password: '111',
-  database: 'db_express_api',
+  host: '******',
+  user: '*****',
+  password: '*****',
+  database: '******',
 });
 
 // Menghubungkan ke database
